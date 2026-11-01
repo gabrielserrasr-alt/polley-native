@@ -16,14 +16,14 @@ Medido no Gerenciador de Tarefas do Windows, na versão 0.2.8:
 |---|---|---|
 | Aberto, sem chamada | 11,2 MB | ![Gerenciador de Tarefas com o Polley parado](media/ram-parado.png) |
 | Em chamada de voz | 23,6 MB | ![Gerenciador de Tarefas com o Polley em chamada](media/ram-chamada.png) |
+| Em chamada com a câmera ligada | 32,5 MB | ![Gerenciador de Tarefas com o Polley usando a câmera](media/ram-camera.png) |
 | Ao vivo em 1080p a 60 fps | 42,2 MB | ![Gerenciador de Tarefas com o Polley ao vivo](media/ram-ao-vivo.png) |
 
 ## Telas
 
 <table>
   <tr>
-    <td><img src="media/chamada.png" alt="Chamada em um canal de voz"></td>
-    <td><img src="media/configuracoes.png" alt="Configurações de voz e vídeo"></td>
+    <td colspan="2"><img src="media/chamada.png" alt="Chamada em um canal de voz"></td>
   </tr>
   <tr>
     <td><img src="media/login.png" alt="Tela de login"></td>
