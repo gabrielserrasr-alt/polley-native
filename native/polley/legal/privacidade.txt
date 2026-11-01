@@ -1,0 +1,77 @@
+# Política de Privacidade do Polley
+Versão de {versao}. Contato: {contato}
+
+Esta Política explica, de forma simples, quais dados o Polley usa, para quê, com quem eles são compartilhados e como você controla tudo isso, de acordo com a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018).
+
+# 1. Quem cuida dos seus dados
+O controlador dos dados é o Polley. Para qualquer assunto sobre privacidade, incluindo pedidos da LGPD, fale com a gente pelo email {contato}.
+
+# 2. Quais dados usamos
+Dados da conta:
+- Email e senha. A senha é guardada de forma criptografada (hash) pelo nosso provedor de login, e ninguém da equipe consegue vê-la.
+- Data de criação da conta e a versão dos Termos que você aceitou.
+
+Perfil (você escolhe o que colocar):
+- Nome de usuário, nome de exibição, foto, banner, bio e cores do perfil.
+
+O que você envia e faz no Polley:
+- Mensagens, fotos e arquivos enviados em conversas e servidores.
+- Amizades, pedidos de amizade, bloqueios, servidores e canais de que você participa.
+- Status online e em qual canal de voz você está (visível para seus amigos e membros dos seus servidores).
+
+Voz, vídeo e tela:
+- São transmitidos em tempo real para as pessoas da chamada e não são gravados pelo Polley.
+- Gravações que você fizer pelo app ficam só no seu computador.
+
+Dados técnicos:
+- Endereço IP, data e hora de acesso e informações técnicas da conexão, registrados pelos nossos provedores para o serviço funcionar e ficar seguro.
+- No seu computador, o app guarda sua sessão, suas configurações de voz e vídeo e quais mensagens você já leu (pasta %APPDATA%\Polley).
+
+O Polley não usa cookies de publicidade, não tem anúncios, não vende dados e não usa ferramentas de rastreamento de terceiros.
+
+# 3. Para que usamos e com qual base legal
+- Criar e manter sua conta, entregar suas mensagens, chamadas e transmissões: para executar o serviço que você pediu (art. 7º, V da LGPD).
+- Enviar códigos de confirmação e de troca de senha: execução do serviço e segurança.
+- Prevenir fraudes, abusos e invasões, e investigar denúncias: legítimo interesse, sempre respeitando seus direitos (art. 7º, IX).
+- Guardar registros de acesso e responder a ordens judiciais: cumprimento de obrigação legal (art. 7º, II, e Marco Civil da Internet).
+
+# 4. Com quem compartilhamos
+Só com empresas que nos ajudam a fazer o Polley funcionar (operadores), e apenas o necessário:
+- Supabase: banco de dados, login e armazenamento de arquivos. Servidores em São Paulo, Brasil.
+- LiveKit: transmissão de voz, vídeo e tela em tempo real. Os servidores podem ficar fora do Brasil. Nesse caso, a transferência internacional é feita para executar o serviço que você pediu e com provedores que adotam medidas de segurança adequadas (art. 33 da LGPD).
+- Google (Gmail): envio dos emails com códigos.
+Também podemos compartilhar dados com autoridades quando a lei ou uma ordem judicial exigir.
+
+Quem mais vê seus dados dentro do Polley:
+- Seu perfil (nome, foto, banner, bio) é visível para usuários logados.
+- Suas mensagens são vistas pelas pessoas da conversa ou do servidor onde você escreveu.
+
+# 5. Por quanto tempo guardamos
+- Enquanto sua conta existir.
+- Mensagens e arquivos que você apagar saem do serviço na hora.
+- Ao excluir a conta, apagamos na hora seu perfil, fotos, arquivos, amizades, conversas, mensagens e os servidores que você criou. Cópias de segurança dos provedores podem levar alguns dias para serem apagadas.
+- Registros de acesso podem ser guardados pelo prazo exigido pela lei.
+
+# 6. Seus direitos
+Pela LGPD (art. 18), você pode:
+- Confirmar se tratamos seus dados e acessar esses dados.
+- Corrigir dados (o perfil você edita direto no app).
+- Pedir a eliminação: você mesmo exclui a conta em Configurações → Minha conta → Excluir conta.
+- Pedir a portabilidade, saber com quem compartilhamos e revogar consentimentos.
+- Reclamar na Autoridade Nacional de Proteção de Dados (ANPD).
+Para os demais pedidos, envie um email para {contato}. Respondemos em até 15 dias.
+
+# 7. Crianças e adolescentes
+O Polley é para pessoas com 13 anos ou mais. Não coletamos dados de crianças de propósito. Se descobrirmos uma conta de alguém com menos de 13 anos, ela será excluída.
+Adolescentes de 13 a 17 anos devem usar o Polley com o conhecimento e a autorização dos pais ou responsáveis. Tratamos os dados deles pensando sempre no seu melhor interesse: não há anúncios, não criamos perfis de consumo e não vendemos caixas de recompensa aleatória.
+Pais e responsáveis podem pedir acesso ou exclusão dos dados de um adolescente pelo email {contato}.
+
+# 8. Segurança
+- Toda comunicação com nossos servidores é criptografada (HTTPS/TLS).
+- Regras no banco de dados garantem que cada pessoa só acessa o que tem permissão para ver.
+- O app só baixa arquivos do nosso próprio armazenamento, com limites de tamanho.
+- As atualizações são assinadas digitalmente.
+Nenhum sistema é 100% seguro. Se houver um incidente que possa trazer risco a você, avisaremos você e a ANPD, como manda a lei.
+
+# 9. Mudanças nesta Política
+Podemos atualizar esta Política. Quando a mudança for importante, avisaremos pelo aplicativo antes de ela valer.

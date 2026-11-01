@@ -1,0 +1,36 @@
+[package]
+name = "polley"
+version = "0.2.8"
+edition = "2021"
+description = "Polley nativo (Rust + Slint)"
+build = "build.rs"
+
+[dependencies]
+polley-media = { path = "../media" }
+anyhow.workspace = true
+tokio.workspace = true
+reqwest.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+rustls.workspace = true
+livekit.workspace = true
+windows.workspace = true
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+futures-util = "0.3"
+tokio-tungstenite = { version = "0.30", default-features = false, features = ["connect", "rustls-tls-webpki-roots"] }
+# Renderizador por software: sem OpenGL/Direct3D = bem menos RAM de driver de vídeo.
+slint = { version = "1.18", default-features = false, features = ["std", "backend-winit", "renderer-software", "compat-1-2"] }
+
+# Fotos de perfil/banners: só os formatos comuns (menos código no .exe).
+image = { version = "0.25", default-features = false, features = ["png", "jpeg", "webp", "gif"] }
+# Janela nativa do Windows para escolher arquivo.
+rfd = "0.15"
+# Conferir a assinatura (Ed25519) e o SHA-256 das atualizações (o rustls já usa o ring).
+ring = "0.17"
+# QR code da verificação em 2 etapas (desenhado por nós, sem imagens de fora).
+qrcode = { version = "0.14", default-features = false }
+
+[build-dependencies]
+slint-build = "1.18"
+# Ícone e "Detalhes" (nome, versão) do polley.exe no Explorer.
+winresource = "0.1"

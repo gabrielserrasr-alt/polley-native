@@ -1,0 +1,4 @@
+# O libwebrtc do LiveKit é compilado com o runtime C++ estático (/MT);
+# o Rust precisa usar o mesmo, senão o link dá LNK2005/LNK1169.
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-C", "target-feature=+crt-static"]

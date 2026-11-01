@@ -1,0 +1,16 @@
+[package]
+name = "stream-proto"
+version = "0.1.0"
+edition = "2021"
+description = "Protótipo: transmissão de tela + áudio para o LiveKit medindo RAM"
+
+[dependencies]
+polley-media = { path = "../media" }
+anyhow.workspace = true
+tokio.workspace = true
+reqwest.workspace = true
+serde_json.workspace = true
+rustls.workspace = true
+livekit.workspace = true
+windows.workspace = true
+rpassword = "7"

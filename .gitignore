@@ -1,0 +1,17 @@
+node_modules
+out
+release
+.env
+supabase/.temp
+native/**/target
+native/release
+
+native/target/
+target/
+node_modules/
+release/
+out/
+build/
+dist/
+.env
+*.exe

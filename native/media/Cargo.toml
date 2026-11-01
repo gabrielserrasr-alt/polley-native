@@ -1,0 +1,16 @@
+[package]
+name = "polley-media"
+version = "0.1.0"
+edition = "2021"
+description = "Motor de mídia do Polley: captura de tela, encode na GPU e áudio"
+build = "build.rs"
+
+[dependencies]
+anyhow.workspace = true
+tokio.workspace = true
+livekit.workspace = true
+windows.workspace = true
+windows-core.workspace = true
+
+[build-dependencies]
+cc = "1"

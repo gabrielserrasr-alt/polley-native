@@ -1,0 +1,65 @@
+# Termos de Uso do Polley
+Versão de {versao}. Contato: {contato}
+
+Bem-vindo ao Polley! Estes Termos explicam as regras para usar o aplicativo Polley e os serviços ligados a ele (chat, amigos, servidores, voz, vídeo e transmissão de tela). Ao criar uma conta, você confirma que leu e concorda com estes Termos e com a nossa Política de Privacidade. Se não concordar, não use o Polley.
+
+# 1. Quem pode usar
+Você precisa ter pelo menos 13 anos para usar o Polley.
+Se você tem entre 13 e 17 anos, só pode usar o Polley com o conhecimento e a autorização dos seus pais ou responsáveis, que devem ler estes Termos com você. Os responsáveis podem pedir a exclusão da conta de um adolescente a qualquer momento pelo email de contato.
+Se soubermos que uma conta pertence a alguém com menos de 13 anos, ela será excluída.
+
+# 2. Sua conta
+- Use um email seu e mantenha sua senha em segredo. Você é responsável pelo que acontece na sua conta.
+- Não crie contas para se passar por outra pessoa, marca ou pelo próprio Polley.
+- Nunca passe para ninguém os códigos que enviamos por email. A equipe do Polley nunca pede sua senha nem seus códigos.
+- Se achar que alguém entrou na sua conta, troque a senha (Configurações → Minha conta) e fale com a gente.
+
+# 3. Regras de convivência
+No Polley é proibido:
+- Publicar, enviar ou transmitir qualquer conteúdo sexual envolvendo menores de idade. Casos assim são denunciados às autoridades.
+- Compartilhar conteúdo íntimo de alguém sem autorização.
+- Assediar, ameaçar, perseguir ou intimidar outras pessoas.
+- Praticar ou incentivar discriminação, racismo, discurso de ódio ou violência.
+- Divulgar dados pessoais de outras pessoas sem autorização (endereço, telefone, documentos etc.).
+- Aplicar golpes, pedir senhas ou códigos, espalhar vírus, links maliciosos ou spam.
+- Vender ou oferecer produtos e serviços ilegais.
+- Publicar conteúdo que viole direitos autorais ou outros direitos de terceiros.
+- Tentar invadir, sobrecarregar, burlar a segurança ou atrapalhar o funcionamento do Polley ou as contas de outras pessoas.
+- Usar o Polley para qualquer atividade ilegal.
+
+# 4. Seu conteúdo
+Tudo que você envia (mensagens, fotos, arquivos, perfil) continua sendo seu. Para o Polley funcionar, você nos autoriza a guardar, copiar e transmitir esse conteúdo apenas para mostrá-lo às pessoas com quem você escolheu compartilhar, enquanto ele existir no serviço.
+Você garante que tem o direito de compartilhar o que envia.
+Voz, vídeo e transmissão de tela passam pelo nosso serviço em tempo real e não são gravados pelo Polley. Se você gravar uma transmissão pelo app, o arquivo fica só no seu computador, e você é responsável por ele. Respeite a privacidade de quem aparece.
+
+# 5. Servidores
+Quem cria um servidor é o dono dele e, junto com os administradores, pode definir regras próprias, criar e apagar canais e moderar mensagens. Essas regras não podem contrariar estes Termos.
+Se o dono excluir o servidor ou a própria conta, o servidor e tudo dentro dele são apagados.
+
+# 6. Moderação e denúncias
+Para manter o Polley seguro, podemos remover conteúdo, limitar funções, suspender ou excluir contas que desrespeitem estes Termos ou a lei, sempre que possível avisando o motivo.
+Para denunciar algo, envie um email para {contato} com o nome de usuário, o servidor ou a conversa e uma descrição do problema. Denúncias envolvendo menores de idade têm prioridade.
+Também cumprimos ordens judiciais e pedidos válidos de autoridades, conforme a lei brasileira.
+
+# 7. O aplicativo e as atualizações
+Você recebe uma licença pessoal, gratuita, não exclusiva e revogável para instalar e usar o Polley no seu computador. Não é permitido vender, alugar ou redistribuir o app modificado.
+O Polley procura atualizações automaticamente. Quando uma versão nova é baixada, o app avisa e só instala quando você clica em "Reiniciar". Todas as atualizações são assinadas digitalmente, e o app recusa arquivos que não vieram de nós.
+
+# 8. Compras e itens de personalização
+Hoje o Polley é gratuito. Se no futuro houver itens pagos, assinaturas ou moedas virtuais, as regras de preço, uso e reembolso serão mostradas antes da compra, respeitando o Código de Defesa do Consumidor, incluindo o direito de arrependimento em até 7 dias. O Polley não vende caixas de recompensa aleatória ("loot boxes").
+
+# 9. Disponibilidade
+O Polley está em desenvolvimento ativo. Fazemos o possível para que funcione bem, mas ele pode ter falhas, ficar fora do ar ou mudar funções. Guarde uma cópia do que for importante para você.
+
+# 10. Responsabilidade
+Cada pessoa responde pelo conteúdo que publica e pelas suas atitudes no Polley. Nós não controlamos previamente o que os usuários enviam, mas agimos quando recebemos denúncias ou ordens válidas, nos termos da lei (incluindo o Marco Civil da Internet).
+Nada nestes Termos tira direitos que você tem pela lei brasileira, como os do Código de Defesa do Consumidor.
+
+# 11. Encerramento
+Você pode excluir sua conta quando quiser, em Configurações → Minha conta → Excluir conta. Também podemos encerrar contas que violem estes Termos.
+
+# 12. Mudanças nestes Termos
+Podemos atualizar estes Termos. Quando a mudança for importante, avisaremos pelo aplicativo antes de ela valer. Se continuar usando o Polley depois do aviso, você concorda com a nova versão.
+
+# 13. Lei aplicável
+Estes Termos seguem as leis do Brasil. Eventuais disputas podem ser resolvidas no foro do seu domicílio.

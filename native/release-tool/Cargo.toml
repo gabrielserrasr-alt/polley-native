@@ -1,0 +1,10 @@
+[package]
+name = "polley-release"
+version = "0.1.0"
+edition = "2021"
+description = "Assina as atualizações do Polley (a chave privada nunca entra no app)"
+
+[dependencies]
+anyhow.workspace = true
+serde_json.workspace = true
+ring = "0.17"
