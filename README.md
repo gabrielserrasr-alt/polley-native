@@ -6,6 +6,31 @@ App de desktop para comunidades: amigos, mensagens diretas, servidores com canai
 
 > **Status:** em desenvolvimento.
 
+![Transmissão ao vivo em 1080p a 60 fps](media/ao-vivo.png)
+
+## Consumo de memória
+
+Medido no Gerenciador de Tarefas do Windows, na versão 0.2.8:
+
+| Situação | RAM | Medição |
+|---|---|---|
+| Aberto, sem chamada | 11,2 MB | ![Gerenciador de Tarefas com o Polley parado](media/ram-parado.png) |
+| Em chamada de voz | 23,6 MB | ![Gerenciador de Tarefas com o Polley em chamada](media/ram-chamada.png) |
+| Ao vivo em 1080p a 60 fps | 42,2 MB | ![Gerenciador de Tarefas com o Polley ao vivo](media/ram-ao-vivo.png) |
+
+## Telas
+
+<table>
+  <tr>
+    <td><img src="media/chamada.png" alt="Chamada em um canal de voz"></td>
+    <td><img src="media/configuracoes.png" alt="Configurações de voz e vídeo"></td>
+  </tr>
+  <tr>
+    <td><img src="media/login.png" alt="Tela de login"></td>
+    <td><img src="media/perfil.png" alt="Edição de perfil com temas e cores" width="320"></td>
+  </tr>
+</table>
+
 ## Recursos
 
 - Amigos, pedidos de amizade, bloqueio e mensagens diretas
